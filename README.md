@@ -4,7 +4,6 @@
 
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm continuously learning and growing
-- 👯 I'm looking to collaborate on open-source projects
 - 💬 Ask me about anything you'd like to know
 - 📫 How to reach me: check my social links below
 - ⚡ Fun fact: I love building things that matter
