@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, Tiar Sagita Rahman  </h1>
+<h3 align="center">Full Stack Developer</h3>
 
 ### About Me
 
