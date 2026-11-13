@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://tiarsagitar.dev" target="_blank">
-    tiarsagitar.dev
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Ftiarsagitar.dev">
   </a>
 </p>
 
